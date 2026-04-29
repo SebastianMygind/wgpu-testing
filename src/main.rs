@@ -1,4 +1,5 @@
 mod app;
+mod buffer;
 mod state;
 
 use winit::event_loop::EventLoop;
